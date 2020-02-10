@@ -5,8 +5,8 @@
 * 맡은역할 : 기프티콘, 내 기프티콘, 공지사항 게시판
   
 ## 시스템 아키텍처
-! <img src="https://user-images.githubusercontent.com/58612087/74094580-0b15b080-4b27-11ea-93c4-1906ef859165.JPG" width="800"> 
+<img src="https://user-images.githubusercontent.com/58612087/74094580-0b15b080-4b27-11ea-93c4-1906ef859165.JPG" width="800"> 
   
 ## 개발환경
-! <img src="https://user-images.githubusercontent.com/58612087/74094582-0c46dd80-4b27-11ea-922d-92719d1b3b54.JPG" width="800">
+<img src="https://user-images.githubusercontent.com/58612087/74094582-0c46dd80-4b27-11ea-922d-92719d1b3b54.JPG" width="800">
 
